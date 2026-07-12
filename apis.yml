@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: http://bnb.data.bl.uk/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/british-national-bibliography-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/british-national-bibliography-domain-security.yml
   - type: Website
     url: http://bnb.data.bl.uk/
   - type: PublicAPIsListing
