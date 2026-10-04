@@ -39,7 +39,6 @@ apis:
   - name: British National Bibliography
     description: "Books"
     humanURL: http://bnb.data.bl.uk/
-    baseURL: http://bnb.data.bl.uk/
     tags:
       - Books
     properties:
